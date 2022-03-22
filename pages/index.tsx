@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="max-w-xl mx-auto my-12">
+      <main className="max-w-xl mx-auto my-12 px-1">
         <h1 className="text-3xl font-bold underline mb-2">
           What the hell is Gala?
         </h1>
