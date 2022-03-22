@@ -46,7 +46,7 @@ const Home: NextPage = () => {
           >
             Les Lancier
           </a>{' '}
-          is a form of formal square dance, that is danced at Danish gala
+          is a form of formal square dance that is danced at Danish gala
           parties. Almost all Danes are taught this dance some time through
           their schooling, most often in high school, although it might be a
           little rusty for most. It is danced in sets of four couples, each with
