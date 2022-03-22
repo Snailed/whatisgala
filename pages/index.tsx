@@ -15,7 +15,7 @@ const Home: NextPage = () => {
 
       <main className="max-w-xl mx-auto my-12 px-1">
         <h1 className="text-3xl font-bold underline mb-2">
-          What the hell is Gala?
+          What the Hell is Gala?
         </h1>
         <h5 className="italic mb-2">From a Danish perspective</h5>
         <p>
