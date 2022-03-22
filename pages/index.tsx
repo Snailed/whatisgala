@@ -20,14 +20,15 @@ const Home: NextPage = () => {
         <h5 className="italic mb-2">From a Danish perspective</h5>
         <p>
           Gala is a festive celebration, usually marking a very special occasion
-          and is in many regards very close to the American notion of a "prom".
-          In Denmark, a gala party is both held for the seniors at the end of
-          High School, but can also be done at jubilees, fundraisers, royal
-          events etc. In general, prom in the states and gala in Denmark are
-          very much alike. This includes several traditions such as:
+          and is in many regards very close to the American notion of a
+          &quot;prom&quot;. In Denmark, a gala party is both held for the
+          seniors at the end of High School, but can also be done at jubilees,
+          fundraisers, royal events etc. In general, prom in the states and gala
+          in Denmark are very much alike. This includes several traditions such
+          as:
         </p>
         <ul className="list-disc pl-4">
-          <li>Wearing one's finest attire</li>
+          <li>Wearing one&apos;s finest attire</li>
           <li>Bringing a partner 👀</li>
           <li>Going a little too overboard in the punch</li>
           <li>Taking snazzy pictures</li>
@@ -49,7 +50,8 @@ const Home: NextPage = () => {
           parties. Almost all Danes are taught this dance some time through
           their schooling, most often in high school, although it might be a
           little rusty for most. It is danced in sets of four couples, each with
-          a "leader" and a "follower", and consists of five different acts.
+          a &quot;leader&quot; and a &quot;follower&quot;, and consists of five
+          different acts.
         </p>
         <br />
         <p>
@@ -64,7 +66,7 @@ const Home: NextPage = () => {
             here
           </a>{' '}
           (for the party at Mønten Kollegium, we will do dance classes
-          beforehand. Otherwise, you'll pick it up quickly!)
+          beforehand. Otherwise, you&apos;ll pick it up quickly!)
         </p>
         <p>
           And if you want to learn from the very best, you can see how her
